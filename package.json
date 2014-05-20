@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kenroybeats/node-express/issues"
   },
-  "homepage": "https://github.com/kenroybeats/node-express"
+  "homepage": "https://github.com/kenroybeats/node-express",
+  "dependencies": {
+    "express": "^4.2.0"
+  }
 }
