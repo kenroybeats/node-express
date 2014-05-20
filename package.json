@@ -1,0 +1,19 @@
+{
+  "name": "node-express",
+  "version": "0.0.1",
+  "description": "Node and Express Class",
+  "main": "app,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenroybeats/node-express.git"
+  },
+  "author": "KenRoy Regester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenroybeats/node-express/issues"
+  },
+  "homepage": "https://github.com/kenroybeats/node-express"
+}
