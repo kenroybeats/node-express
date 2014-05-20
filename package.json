@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kenroybeats/node-express",
   "dependencies": {
-    "express": "^4.2.0"
+    "express": "^4.2.0",
+    "ejs": "^1.0.0"
   }
 }
