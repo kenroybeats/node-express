@@ -9,4 +9,4 @@ This is a sample project for Node-Express
 * Node.js
 * Express.js
 * Sweat & Tears
-* Love jOIN pAIN
+* Love Joy Pain
